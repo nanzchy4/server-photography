@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Street photography",
+        "Price": "$400",
+        "Duration": "2hrs",
+        "Rating" : "4.5",
+        "Details": "Street photography (also sometimes called candid photography) is photography conducted for art or enquiry that features unmediated chance encounters and random incidents[1] within public places. Although there is a difference between street and candid photography, it is usually subtle with most street photography being candid in nature and some candid photography being classifiable as street photography. Street photography does not necessitate the presence of a street or even the urban environment. Though people usually feature directly, street photography might be absent of people and can be of an object or environment where the image projects a decidedly human character in facsimile or aesthetic."
+    },
+    {
+        "title": "Wedding Photography",
+        "Price": "$1000",
+        "Duration": "5hrs",
+        "Rating" : "5",
+        "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+        "title": "Documentary photography",
+        "Price": "$700",
+        "Duration": "6hrs",
+        "Rating" : "4",
+        "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+        "title": "Architectural photography",
+        "Price": "$800",
+        "Duration": "3-7hrs",
+        "Rating" : "3.5",
+        "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+        "title": "Fashion Photography",
+        "Price": "$400",
+        "Duration": "2hrs",
+        "Rating" : "4.5",
+        "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+        "title": "Food Photography",
+        "Price": "$400",
+        "Duration": "2hrs",
+        "Rating" : "4.5",
+        "Details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+
+]
