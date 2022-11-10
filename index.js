@@ -17,7 +17,6 @@ async function run () {
     try{
 
         const serviceCollection = client.db('photoStudio').collection('services');
-        const bannerDataCollection = client.db('photoStudio').collection('bannerData');
 
         app.get('/services', async(req,res) =>{
             const query ={}
