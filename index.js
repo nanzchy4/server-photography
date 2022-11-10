@@ -17,6 +17,8 @@ async function run () {
     try{
 
         const serviceCollection = client.db('photoStudio').collection('services');
+        const reviewCollection = client.db('photoStudio').collection('reviews');
+
 
         app.get('/services', async(req,res) =>{
             const query ={}
@@ -37,6 +39,12 @@ async function run () {
             const cursor = serviceCollection.find(query);
             const service = await cursor.toArray();
             res.send(service);
+        })
+
+        app.post('/reviews',async(req,res) =>{
+            const review = req.body;
+            const result = await reviewCollection.insertOne(review);
+            res.send(result);
         })
 }
     finally{
